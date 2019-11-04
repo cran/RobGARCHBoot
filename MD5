@@ -1,0 +1,15 @@
+ca0a2ecc9b5d6638c8e2587f505a92b2 *DESCRIPTION
+56ceaae47bd290a1c4877da53df3b4ab *NAMESPACE
+95435a74d231614b6f730f55c670ac53 *R/ROBUSTGARCH.R
+26f1227a3202a04706f00ae5c81ca49a *R/RcppExports.R
+8f973947114f4ac30bdcfab2ae97feab *R/RobGARCHBoot.R
+d50f179ffdfd7e11837db850553489af *README.md
+6caedb0f2dd2b4f500ebcfe142c9b7a2 *data/returnsexample.RData
+17e966d39f9956fe16f49a65746e0c04 *man/ROBUSTGARCH.Rd
+3eeb1d559e092f566e57bc20fb29bafb *man/ROBUSTGARCHloss_RCPP.Rd
+b51b47228310b96499b9cc50227db134 *man/RobGARCHBoot-package.Rd
+e10cd2a917da00f69067083f34868c0a *man/RobGARCHBoot.Rd
+19bba6ba7fab009ab30ea34c1ded78a6 *man/fitted_Vol.Rd
+c7bfd86187c802db35264976b909ed5b *man/returnsexample.Rd
+5fa41c42c8cf24d1ba12e6766346865f *src/ROBUSTGARCH.cpp
+badb7aa0caf175b19a37962ae5cf494f *src/RcppExports.cpp
