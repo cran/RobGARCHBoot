@@ -6,6 +6,7 @@ using namespace Rcpp;
 
 // [[Rcpp::depends(RcppArmadillo)]]
 //' @export
+//' @noRd
 // [[Rcpp::export]]
 SEXP ROBUSTGARCHloss_RCPP(NumericVector theta, NumericVector r, double sigma2){
   int n = r.size(), k = 3;
@@ -157,4 +158,3 @@ SEXP foreBoot(NumericVector coeff, NumericVector e, NumericVector e2, NumericVec
   }
   return Rcpp::List::create(rp,hp,aux);
 }
-
