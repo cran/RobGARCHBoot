@@ -1,7 +1,7 @@
-c4db8a7a7b12c18c0b6132ccb4fb16a6 *DESCRIPTION
+03bc6dd31e4ca40ce874e4d5d23b7bf9 *DESCRIPTION
 eb260cf8e31f53164e9bb4dfd1b12b88 *NAMESPACE
-772dde00ad70bd9e2a5ed5ce37425add *R/ROBUSTGARCH.R
-323704ba780937b960610fb43dbe2b90 *R/RcppExports.R
+513d777df287adfd03087e68ad59d01c *R/ROBUSTGARCH.R
+c64e738d654e52c3c1b4847d18998b15 *R/RcppExports.R
 3d4b2e34095c11b8831e3dfa69433c0f *R/RobGARCHBoot.R
 7628e361ad674eb6755d88308618b9ef *R/RobGARCHBootParallel.R
 c9e052a4b50a7bd3fbd09ff08530997e *R/bootstrap_replication.R
@@ -9,10 +9,10 @@ c9e052a4b50a7bd3fbd09ff08530997e *R/bootstrap_replication.R
 6caedb0f2dd2b4f500ebcfe142c9b7a2 *data/returnsexample.RData
 c24da4a2b7f778ee1906d71152a66d31 *man/ROBUSTGARCH.Rd
 420250220d9efcbaab8fbeea580fa1ce *man/ROBUSTGARCHloss_RCPP.Rd
-89538a285e53726fefbe33e9c2b4e43c *man/RobGARCHBoot-package.Rd
+1933188ee73af25fa513167c88cdeb92 *man/RobGARCHBoot-package.Rd
 e8e19a8cdaef85f06ecb59fb0fdf34a7 *man/RobGARCHBoot.Rd
 84659eacea8b7f395226e5e5b3d86f2a *man/RobGARCHBootParallel.Rd
 7a282868a2438e507f7815a2de014445 *man/fitted_Vol.Rd
 c7bfd86187c802db35264976b909ed5b *man/returnsexample.Rd
-31d106df41af70b58ea4f8cd921c5596 *src/ROBUSTGARCH.cpp
+f736daf5ee158fe6d72597cf6dc74200 *src/ROBUSTGARCH.cpp
 badb7aa0caf175b19a37962ae5cf494f *src/RcppExports.cpp

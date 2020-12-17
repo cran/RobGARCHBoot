@@ -6,7 +6,7 @@ using namespace Rcpp;
 
 // [[Rcpp::depends(RcppArmadillo)]]
 //' @export
-//' @noRd
+//' @useDynLib RobGARCHBoot
 // [[Rcpp::export]]
 SEXP ROBUSTGARCHloss_RCPP(NumericVector theta, NumericVector r, double sigma2){
   int n = r.size(), k = 3;
@@ -27,6 +27,8 @@ SEXP ROBUSTGARCHloss_RCPP(NumericVector theta, NumericVector r, double sigma2){
   y = log(pow(auxr,2)/h);
   return(wrap(mean(-y + 0.8260*5*log(1+exp(y)/2))));
 }
+
+
 
 //' @noRd
 //' @useDynLib RobGARCHBoot
